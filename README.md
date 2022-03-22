@@ -18,7 +18,7 @@ Hey there.
 So this is my attempt on this Frontend-mentor challenge.
 I would say any of my three versions are not that bad if the screen is draged to full size.
 
-However inbetween my breaking points if i drag the window strange things things happen to my
+However inbetween my breaking points if i drag the window, strange things happen to my
 tamplate. It´s just not moving correctly. I would apreciated if someone could tell me what i did
 wrong with my breakpoints or if my browser is just the problem.
 
