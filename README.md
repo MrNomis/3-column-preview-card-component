@@ -53,7 +53,7 @@ but it´s not working like i want it =)
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MrNomis)
+- Frontend Mentor - [@MrNomis](https://www.frontendmentor.io/profile/MrNomis)
 
 
 
